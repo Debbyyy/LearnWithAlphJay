@@ -33,7 +33,6 @@
 
 /* It's never too late... */
 .section1 {
-    border: 2px solid blue;
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
